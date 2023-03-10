@@ -2,9 +2,7 @@ import Board from './components/Board.jsx';
 
 function App() {
   return (
-    <div className="App">
-      <Board/>
-    </div>
+    <Board/>
   );
 }
 
